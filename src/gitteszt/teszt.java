@@ -11,7 +11,7 @@ public class teszt {
 	}
 
 	public void plusMethod(){
-		System.out.println("Ez vaqlami másik method");
+		System.out.println("Ez valami másik method");
 	}
 	
 }
