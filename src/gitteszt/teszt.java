@@ -7,6 +7,7 @@ public class teszt {
 		System.out.println( "Még egy teszt" );
 		System.out.println( "Na még egy");
 		System.out.println( "És még egy" );
+		System.out.println( "Meg még még egy" );
 	}
 	
 	
