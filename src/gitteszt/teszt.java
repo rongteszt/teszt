@@ -9,6 +9,9 @@ public class teszt {
 		System.out.println( "És még egy" );
 		System.out.println( "Meg még még egy" );
 	}
-	
+
+	public void plusMethod(){
+		System.out.println("Ez vaqlami másik method");
+	}
 	
 }
