@@ -13,7 +13,7 @@ public class teszt {
 	public void plusMethod(){
 		System.out.println("Ez valami másik method");
 		System.out.println();
-		// itt lesz egy conflict.		
+// itt lesz egy conflict.		
 		System.out.println( "Ezuccse mûködik így ám :) ");
 		// várok egy conflictot idem de nem ide fog érkezni.
 	}
