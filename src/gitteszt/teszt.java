@@ -13,7 +13,7 @@ public class teszt {
 	public void plusMethod(){
 		System.out.println("Ez valami másik method");
 		System.out.println();
-		System.out.println( "Ezuccse mûködik így ám :) ");
+		System.out.println( "Ezuccse mûködik így ám :) "); 
 	}
 	
 	
